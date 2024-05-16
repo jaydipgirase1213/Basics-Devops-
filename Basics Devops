@@ -1,0 +1,5 @@
+What is Devops ? ->> DevOps is a methodology in the software development and IT industry.
+Cycle of Devops ? ->> DevOps is a practice that enables a single team to handle the whole application lifecycle, including development, testing, release, deployment, operation, display, and planning. It is a mix of the terms “Dev” (for development) and “Ops” (for operations). We can speed up the delivery of applications and services by a business with the aid of DevOps.
+What is Monolithic and Microlithic Architecture ? ->> A monolithic application is built as a single unified unit while a microservices architecture is a collection of smaller, independently deployable services. 
+What is Service ? ->> A service is defined as an intangible good that is produced and consumed simultaneously. 
+What is Microservice ? ->> Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs.
